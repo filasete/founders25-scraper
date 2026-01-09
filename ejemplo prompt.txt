@@ -1,0 +1,15 @@
+Vamos a scrapear los datos de:
+
+Web: codeia.dev
+URLs: https://codeia.dev/precios, https://codeia.dev/lecciones
+
+Necesito:
+Listado de los precios con las características en precios
+Listado de lecciones de lecciones, con su título, descripción, etiquetas, fecha, visualizaciones, categoría, imagen de portada, url del vídeo
+
+Formato de salida:
+CSV y JSON con carpeta que contenga las imágenes de cada item con el nombre
+
+Muestrame los errores encontrados y el informe de lo que hemos scrapeado
+
+Quiero que crees el codigo con python y las dependencias necesarias
